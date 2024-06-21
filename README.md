@@ -1,0 +1,2 @@
+# cv3_lab2
+在CIFAR-100数据集上比较基于Transformer和CNN的图像分类模型
